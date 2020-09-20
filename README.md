@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on Mobile Appilcation Development.
 - 🌱 I’m currently learning Flutter.
 - 🤔 I’m looking for help with Flutter and Dart.
-<p><a href="https://github.com/pratham3164">
+<a href="https://github.com/pratham3164">
   <i,amg align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham3164&theme=dracula&line_langs_below=1" />
-</a><a>
-<img src="https://github-readme-stats.vercel.app/api?username=pratham3164&show_icons=true&theme=dracula&line_height=27" />
-</a></p>
+</a>
+<a href="https://github.com/pratham3164"><img src="https://github-readme-stats.vercel.app/api?username=pratham3164&show_icons=true&theme=dracula&line_height=27" />
+</a>
 <!--
 **pratham3164/pratham3164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
