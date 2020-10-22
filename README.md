@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham3164&label=Profile Views&color=blue&style=plastic" alt="pratham3164" /> </p>
  
 - 🔭 I’m currently working on Mobile Appilcation Development.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter and Node.js.
 - 🤔 I’m looking for help with Flutter and Dart.
 <a href="https://github.com/pratham3164">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham3164&theme=dracula&line_langs_below=1" />
