@@ -3,7 +3,7 @@
  
 - 🔭 I’m currently working on Mobile Appilcation Development.
 - 🌱 I’m currently learning Flutter and Node.js.
-- 🤔 I’m looking for help with Flutter and Dart.
+- 🤔 I’m looking for help with Flutter, Dart & Nodejs.
 <a href="https://github.com/pratham3164">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham3164&theme=dracula&line_langs_below=1" />
 </a>
